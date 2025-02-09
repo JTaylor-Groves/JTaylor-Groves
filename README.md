@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+ - Groves Faculty of Science
+
+- Teacher: Joel Taylor
+- School: Groves Christian College
+- Campus: Virtual Learning
+- Education: Secondary Education Institution
+- Study Right: 1 January 2024—31 December 2028
+
 <!--
 **JTaylor-Groves/JTaylor-Groves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
